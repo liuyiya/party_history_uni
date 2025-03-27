@@ -1,0 +1,99 @@
+{
+  "pages": [{
+    "path": "pages/login",
+    "style": {
+      "navigationBarTitleText": "登录",
+			"navigationStyle": "custom"
+    }
+  }, {
+    "path": "pages/register",
+    "style": {
+      "navigationBarTitleText": "注册",
+			"navigationStyle": "custom"
+    }
+  }, {
+    "path": "pages/index",
+    "style": {
+      "navigationBarTitleText": "首页",
+      "navigationStyle": "custom",
+			"enablePullDownRefresh":true//开启下拉刷新
+    }
+	}, {
+	  "path": "pages/document/index",
+	  "style": {
+	    "navigationBarTitleText": "伟人文献",
+			"navigationStyle": "custom"
+	  }
+	}, {
+	  "path": "pages/rank/index",
+	  "style": {
+	    "navigationBarTitleText": "排行榜",
+			"navigationStyle": "custom"
+	  }
+  }, {
+    "path": "pages/personal/index",
+    "style": {
+      "navigationBarTitleText": "个人",
+			"navigationStyle": "custom"
+    }
+	}, {
+	  "path": "pages/personal/info/index",
+	  "style": {
+	    "navigationBarTitleText": "详细资料"
+	  }
+	}, {
+	  "path": "pages/personal/point/index",
+	  "style": {
+	    "navigationBarTitleText": "积分记录"
+	  }
+	}, {
+	  "path": "pages/exersise/index",
+	  "style": {
+	    "navigationBarTitleText": "答题页面"
+	  }
+	}, {
+	  "path": "pages/exersise/finish",
+	  "style": {
+	    "navigationBarTitleText": "答题完成"
+	  }
+	}, {
+	  "path": "pages/webview/webview",
+	  "style": {
+	    "navigationBarTitleText": "书籍详情"
+	  }
+  }],
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#000000",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+		// "iconWidth": "20px",
+    "list": [
+			{
+        "pagePath": "pages/index",
+        "iconPath": "static/images/tabbar/home.png",
+        "selectedIconPath": "static/images/tabbar/home-st.png"
+      }, 
+			{
+        "pagePath": "pages/document/index",
+        "iconPath": "static/images/tabbar/document.png",
+        "selectedIconPath": "static/images/tabbar/document-st.png"
+      }, 
+			{
+			  "pagePath": "pages/rank/index",
+			  "iconPath": "static/images/tabbar/rank.png",
+			  "selectedIconPath": "static/images/tabbar/rank-st.png"
+			}, 
+			{
+        "pagePath": "pages/personal/index",
+        "iconPath": "static/images/tabbar/mine.png",
+        "selectedIconPath": "static/images/tabbar/mine-st.png"
+      }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "manage",
+    "navigationBarBackgroundColor": "#FFFFFF"
+  }
+}
