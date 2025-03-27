@@ -18,31 +18,31 @@ springboot+mybatis
 
 ## 页面展示
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E6%B3%A8%E5%86%8C.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E6%B3%A8%E5%86%8C.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E7%99%BB%E5%BD%95.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E7%99%BB%E5%BD%95.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E9%A6%96%E9%A1%B5.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E9%A6%96%E9%A1%B5.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E9%80%89%E6%8B%A9%E9%A2%98.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E9%80%89%E6%8B%A9%E9%A2%98.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E7%9C%8B%E5%9B%BE%E9%80%89%E6%8B%A9.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E7%9C%8B%E5%9B%BE%E9%80%89%E6%8B%A9.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E5%A1%AB%E7%A9%BA%E9%A2%98.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E5%A1%AB%E7%A9%BA%E9%A2%98.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E5%AE%8C%E6%88%90%E7%AD%94%E9%A2%98.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E5%AE%8C%E6%88%90%E7%AD%94%E9%A2%98.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E4%B9%A6%E7%B1%8D%E5%88%97%E8%A1%A8.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E4%B9%A6%E7%B1%8D%E5%88%97%E8%A1%A8.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E7%A7%AF%E5%88%86%E6%8E%92%E8%A1%8C.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E7%A7%AF%E5%88%86%E6%8E%92%E8%A1%8C.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E7%A7%AF%E5%88%86%E8%AE%B0%E5%BD%95.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E7%A7%AF%E5%88%86%E8%AE%B0%E5%BD%95.jpg" style="zoom: 33%;" />
 
-<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%AE%E6%94%B9.jpg" style="zoom:50%;" />
+<img src="https://school-uniapp.oss-cn-beijing.aliyuncs.com/party_history_uni/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%AE%E6%94%B9.jpg" style="zoom: 33%;" />
 
 # 其他项目
 
